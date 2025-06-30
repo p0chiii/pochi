@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Inception
 Interstellar
 The Matrix
+=======
+Pizza
+Sushi
+Ice Cream
+>>>>>>> foods
